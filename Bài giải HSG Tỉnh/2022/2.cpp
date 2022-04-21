@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 // Theo mô tả đề bài, điểm là các số thực nằm trong "đoạn" [0.0000; 10.0000]
-const int SCORE_MIN	   = 000000;
+const int SCORE_MIN    = 000000;
 const int SCORE_MAX    = 100000;
 const int SCORE_OFFSET = SCORE_MAX - SCORE_MIN + 1;
 
